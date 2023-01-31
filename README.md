@@ -1,6 +1,6 @@
 ### Hello 👋
 
-## I'm Fabiana Lima,
+## I'm Fabiana G. Dias Lima,
 
 - 🔭 I'm currently in a career transition to technology
 - 🌱 I’m currently learning JAVA
